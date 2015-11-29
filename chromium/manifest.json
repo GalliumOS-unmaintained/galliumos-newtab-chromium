@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "home.galliumos.org",
+  "short_name": "h.g.o",
+  "description": "Replace the new tab page with https://galliumos.org/home/",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "redir.html"
+  }
+}

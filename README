@@ -1,0 +1,7 @@
+chromium-home.galliumos.org
+
+This is a small extension that will redirect the new tab page of Chromium and Google Chrome to https://galliumos.org/home/.
+
+chromium/ is where the unpacked Chromium extension is found
+
+system/ is where the packed Chromium extension, and the nessesary files to install it to the system are found, including Debian package management.
