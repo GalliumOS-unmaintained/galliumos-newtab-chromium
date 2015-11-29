@@ -1,0 +1,12 @@
+Source: galliumos-newtab-chromium
+Maintainer: Colton DRG <coltondrg@galliumos.org>
+Section: web
+Priority: optional
+Standards-Version: 3.9.1
+Build-Depends: debhelper (>= 9)
+
+Package: galliumos-newtab-chromium
+Architecture: all
+Depends: 
+Description: GalliumOS New Tab page for Google Chrome and Chromium
+ Replace the New Tab in Chromium with https://galliumos.org/home/

@@ -1,4 +1,4 @@
 {
-  "external_crx": "/home/share/extension.crx",
+  "external_crx": "/usr/share/chromium/extensions/home.galliumos.org.crx",
   "external_version": "1.0"
 }
